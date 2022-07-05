@@ -1,7 +1,0 @@
-echo "# eat-healthy" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Nizam-Shejan11/eat-healthy.git
-git push -u origin main
